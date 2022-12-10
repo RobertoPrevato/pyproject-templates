@@ -1,0 +1,11 @@
+{
+    "project_name": "neoteroi",
+    "project_description": "",
+    "project_homepage": "https://github.com/Neoteroi/",
+    "project_issue_tracker": "https://github.com/Neoteroi/",
+    "h1": "{{cookiecutter.project_name}}",
+    "main_author": {
+        "name": "Roberto Prevato",
+        "email": "roberto.prevato@gmail.com"
+    }
+}
